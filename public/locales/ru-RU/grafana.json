@@ -1,42 +1,42 @@
 {
-  "_comment": "Do not manually edit this file, or update these source phrases in Crowdin. The source of truth for English strings are in the code source",
+  "_comment": "Не редактируйте этот файл вручную или обновите эти исходные фразы в Crowdin. Источник истины для английских строк находится в исходном коде",
   "clipboard-button": {
     "inline-toast": {
-      "success": "Copied"
+      "success": "Скопировано"
     }
   },
   "command-palette": {
     "action": {
-      "change-theme": "Change theme...",
-      "dark-theme": "Dark",
-      "light-theme": "Light",
-      "search": "Search"
+      "change-theme": "Изменить тему...",
+      "dark-theme": "Тёмная",
+      "light-theme": "Светлая",
+      "search": "Поиск"
     },
     "search-box": {
-      "placeholder": "Search or jump to..."
+      "placeholder": "Искать или перейти к..."
     },
     "section": {
-      "actions": "Actions",
+      "actions": "Действия",
       "dashboard-search-results": "Dashboards",
-      "pages": "Pages",
-      "preferences": "Preferences",
-      "recent-dashboards": "Recent dashboards"
+      "pages": "Страниц",
+      "preferences": "Настройки",
+      "recent-dashboards": "Недавние дешборды"
     }
   },
   "common": {
     "locale": {
-      "default": "Default"
+      "default": "По умолчанию"
     },
-    "save": "Save"
+    "save": "Сохранить"
   },
   "dashboard": {
     "inspect": {
-      "actions-tab": "Actions",
-      "data-tab": "Data",
-      "error-tab": "Error",
+      "actions-tab": "Действия",
+      "data-tab": "Данные",
+      "error-tab": "Ошибка",
       "json-tab": "JSON",
       "meta-tab": "Meta Data",
-      "query-tab": "Query",
+      "query-tab": "Запрос",
       "stats-tab": "Stats",
       "subtitle": "{{queryCount}} queries with total query time of {{formatted}}",
       "title": "Inspect: {{panelTitle}}"
@@ -45,9 +45,9 @@
       "data-options": "Data options",
       "dataframe-aria-label": "Select dataframe",
       "dataframe-label": "Show data frame",
-      "download-csv": "Download CSV",
+      "download-csv": "Скачать CSV",
       "download-excel-description": "Adds header to CSV for use with Excel",
-      "download-excel-label": "Download for Excel",
+      "download-excel-label": "Скачать в формате Excel",
       "download-logs": "Download logs",
       "download-service": "Download service graph",
       "download-traces": "Download traces",
@@ -77,13 +77,13 @@
     "inspect-stats": {
       "data-title": "Data source stats",
       "processing-time": "Data processing time",
-      "queries": "Number of queries",
-      "request-time": "Total request time",
-      "rows": "Total number rows",
+      "queries": "Количество запросов",
+      "request-time": "Общее время запроса",
+      "rows": "Всего строк",
       "table-title": "Stats"
     },
     "toolbar": {
-      "add-panel": "Add panel",
+      "add-panel": "Добавить панель",
       "comments-show": "Show dashboard comments",
       "mark-favorite": "Mark as favorite",
       "open-original": "Open original dashboard",
@@ -308,9 +308,9 @@
       "subtitle": "Use service accounts to run automated workloads in Grafana",
       "title": "Service accounts"
     },
-    "sign-in": "Sign in",
+    "sign-in": "Войти",
     "sign-out": {
-      "title": "Sign out"
+      "title": "Выйти из системы"
     },
     "snapshots": {
       "subtitle": "Interactive, publically available, point-in-time representations of dashboards",
@@ -395,9 +395,9 @@
   "search": {
     "dashboard-actions": {
       "import": "Import",
-      "new": "New",
-      "new-dashboard": "New Dashboard",
-      "new-folder": "New Folder"
+      "new": "Новый",
+      "new-dashboard": "Создать дешборд",
+      "new-folder": "Создать каталог"
     }
   },
   "share-modal": {
@@ -445,10 +445,10 @@
       "delete-button": "Delete snapshot.",
       "deleted-message": "The snapshot has been deleted. If you have already accessed it once, then it might take up to an hour before before it is removed from browser caches or CDN caches.",
       "expire": "Expire",
-      "expire-day": "1 Day",
-      "expire-hour": "1 Hour",
-      "expire-never": "Never",
-      "expire-week": "7 Days",
+      "expire-day": "1 день",
+      "expire-hour": "1 час",
+      "expire-never": "Никогда",
+      "expire-week": "7 дней",
       "info-text-1": "A snapshot is an instant way to share an interactive dashboard publicly. When created, we strip sensitive data like queries (metric, template, and annotation) and panel links, leaving only the visible metric data and series names embedded in your dashboard.",
       "info-text-2": "Keep in mind, your snapshot <1>can be viewed by anyone</1> that has the link and can access the URL. Share wisely.",
       "local-button": "Local Snapshot",
@@ -467,12 +467,12 @@
     },
     "theme-picker": {
       "current": "Current",
-      "dark": "Dark",
-      "field-name": "Theme",
-      "light": "Light"
+      "dark": "Тёмная",
+      "field-name": "Тема",
+      "light": "Светлая"
     },
     "view-json": {
-      "copy-button": "Copy to Clipboard"
+      "copy-button": "Копировать в буфер обмена"
     }
   },
   "shared-dashboard": {
@@ -574,7 +574,7 @@
   "variable": {
     "picker": {
       "input": "Enter variable value",
-      "link-all": "All",
+      "link-all": "Все",
       "option-all": "All",
       "option-selected-values": "Selected",
       "option-tooltip": "Clear selections"
