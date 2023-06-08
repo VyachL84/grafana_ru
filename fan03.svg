@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480" height="480" preserveAspectRatio="xMidYMid" version="1.1" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="__lottie_element_313">
+   <rect width="480" height="480"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(.87717 0 0 .87717 -14.984 -6.7374)" clip-path="url(#__lottie_element_313)">
+  <animateTransform attributeName="transform" type="rotate" dur="2s" repeatCount="indefinite" from="0 240 240" to="360 240 240"></animateTransform>
+  <g transform="matrix(-11.092 4.58 -4.58 -11.092 624.26 386.04)" display="block">
+   
+   <g transform="translate(24.424 23.641)" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="m17.46-4.35c-1.15-4.69-4.16-8.65-8.19-11.07-2.7-1.64-5.88-2.58-9.27-2.58-1.5 0-2.96 0.18-4.35 0.54-4.69 1.15-8.65 4.16-11.07 8.19-1.64 2.7-2.58 5.88-2.58 9.27 0 1.5 0.18 2.96 0.54 4.35 1.15 4.69 4.16 8.65 8.19 11.07 2.7 1.64 5.88 2.58 9.27 2.58 1.5 0 2.96-0.181 4.35-0.54 4.69-1.15 8.65-4.16 11.07-8.19 1.64-2.701 2.58-5.88 2.58-9.27 0-1.5-0.18-2.96-0.54-4.35zm-17.46 7.35c-0.83 0-1.58-0.34-2.12-0.88-0.54-0.54-0.88-1.29-0.88-2.12s0.34-1.58 0.88-2.12c0.54-0.54 1.29-0.88 2.12-0.88s1.58 0.34 2.12 0.88c0.54 0.54 0.88 1.29 0.88 2.12s-0.34 1.58-0.88 2.12c-0.54 0.54-1.29 0.88-2.12 0.88z"/>
+    <path d="m3 0c0 0.83-0.34 1.58-0.88 2.12-0.54 0.54-1.29 0.88-2.12 0.88s-1.58-0.34-2.12-0.88c-0.54-0.54-0.88-1.29-0.88-2.12s0.34-1.58 0.88-2.12c0.54-0.54 1.29-0.88 2.12-0.88s1.58 0.34 2.12 0.88c0.54 0.54 0.88 1.29 0.88 2.12z"/>
+   </g>
+   <g transform="translate(18.784,13.851)">
+    <path d="m3.52 7.67c-0.95-0.97-7.04-7.69-2.23-15.34" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(29.059,14.431)">
+    <path d="m-4.635 6.21c0.02-1.36 0.46-10.41 9.27-12.42" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(34.214 18.001)">
+    <path d="m-7.67 3.52c0.97-0.95 7.689-7.04 15.34-2.23" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(33.634 28.276)">
+    <path d="m-6.21-4.635c1.359 0.02 10.41 0.46 12.42 9.27" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(30.064 33.431)">
+    <path d="m-3.52-7.67c0.949 0.97 7.04 7.689 2.229 15.34" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(19.789 32.851)">
+    <path d="m-4.635 6.21c8.81-2.01 9.25-11.061 9.27-12.42" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(14.634,29.281)">
+    <path d="m-7.67-1.291c7.65 4.811 14.37-1.28 15.34-2.229" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+   <g transform="translate(15.213 19.006)">
+    <path d="m-6.21-4.635c2.01 8.81 11.06 9.25 12.42 9.27" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   </g>
+  </g>
+ </g>
+</svg>
