@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="200" height="200" viewBox="0 0 200 200" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <defs id="defs2" />
+   <g id="heater" style="fill:none;stroke:#9b9b9b;stroke-width:2.75;stroke-opacity:1;stroke-dasharray:none"
+      transform="matrix(2.0656309,0,0,1.7187618,-73.187141,-71.030592)">
+      <path id="polyline17" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 41.744143,66.382497 8.622239,-14.979633 8.622239,14.979633 8.622239,-14.979633 8.622239,14.979633 8.622239,-14.979633 8.622239,14.979633 8.622233,-14.979633 8.62224,14.979633 8.62225,-14.979633 8.62224,14.979633" />
+      <path id="polyline17-7" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 41.744143,95.054605 8.622239,-14.979633 8.622239,14.979633 8.622239,-14.979633 8.622239,14.979633 8.622239,-14.979633 8.622239,14.979633 8.622243,-14.979633 8.62224,14.979633 8.62224,-14.979633 8.62224,14.979633" />
+      <path id="polyline17-3" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 41.744141,123.72672 8.622239,-14.97964 8.622239,14.97964 8.622239,-14.97964 8.622239,14.97964 8.622239,-14.97964 8.622239,14.97964 8.622245,-14.97964 8.62224,14.97964 8.62224,-14.97964 8.62224,14.97964" />
+      <g style="fill:none;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">
+         <rect id="rect378" width="7.472261" height="108.29101" x="50.374588" y="45.522469" ry="5.5274186" />
+         <rect id="rect378-3" width="7.472261" height="108.29101" x="70.886162" y="45.522469" ry="5.5274186" />
+         <rect id="rect378-6" width="7.472261" height="108.29101" x="91.397728" y="45.522469" ry="5.5274186" />
+         <rect id="rect378-7" width="7.472261" height="108.29101" x="111.9093" y="45.522469" ry="5.5274186" />
+         <rect id="rect1195" width="8.7113562" height="13.331717" x="119.36096" y="131.77495" ry="0" />
+         <rect id="rect1195-3-6" width="8.7113562" height="13.331717" x="41.608974" y="131.77495" ry="0" />
+      </g>
+      <path style="fill:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 128.12977,126.90897 c 0.101,15.419 0,23.057 0,23.057" id="path1253" />
+      <path style="fill:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 41.593163,126.90865 c 0.1015,15.4191 0,23.0576 0,23.0576" id="path1253-2" />
+   </g>
+</svg>
